@@ -7,23 +7,23 @@ Pomodoro Tekniği, yüksek odak düzeyinde işleri bitirmeye yardımcı olmaktad
 # POMODORO TEKNİĞİ NASIL UYGULANIR?
 Pomodoro Tekniği’nin uygulaması oldukça basittir. Basit bir saat dışında herhangi bir şey gerektirmez. Kolayca öğrenilir ve uygulanır. Teknikten verim almak için yedi ila yirmi günlük sabit uygulama gerekir. Başladıktan kısa süre sonra zamanı etkin kullanmayı öğretse de gerçek sonuçlar ancak bu zaman aralığında ortaya çıkacaktır. Uygulama süreci oldukça basittir. Gün boyunca her proje için zaman kısa aralıklara bölünür ve periyodik molalar verilir. Her bir çalışma periyodu “Pomodoro” olarak adlandırılır. Aşamalarıyla Poodoro Tekniği’ni uygulama şekli şöyledir;
 
-# HEDEFLER
+# Hedefler
 Öncelikle yapılacak bir görev seçip bunu kısa zamanlı zaman aralıklarına ayırın ve hedeflerinizi listeleyin. Hedeflerinizi küçük parçalara bölmek, kısa aralıklarda çalışabilmek ve görev takibi yapabilmek açısından önemli olacaktır.
 
-# ÇALIŞMA
+# Çalışma
 Zamanlayıcınızı 25 dakikaya ayarlayıp yapacağınız iş üzerine yoğunlaşın ve 25 dakika dolana kadar odaklanarak çalışın. Çalışma sürenizde bölünmemeye, işten farklı bir konuyla ilgilenmemeye özen gösterin. Yapmak istediğiniz şeyleri mola zamanlarınıza erteleyin ve başka insanların da sizi bölmesine izin vermemeye gayret gösterin.
 Eğer bölünürseniz sayacı sıfırlayın ve baştan başlayın.
 
-# MOLA
+# Mola
 25 dakika dolduktan sonra işin neresinde olursanız mutlaka 5 dakika mola verin. Bu molaları iş dışındaki bir aktivite ile değerlendirmek tekniğin en önemli noktalarından biridir. Zihni tazelemek için işten uzaklaşıp farklı bir şekilde mola vermek gerekir. Örneğin hava almak, odada gezinmek, iş dışındaki bir konuyla ilgili metin okumak veya kahve içmek gibi molalar verilebilir.
 
-# DÖNGÜ
+# Döngü
 Moladan sonra aynı döngüyü sürdürün ve gerçekleştirdiğiniz hedefleri, bitirdiğiniz Pomodoro döngülerini, bölünmelerinizi, tamamlayamadığınız döngüleri ve işleri listenizde işaretleyin. Bu döngüyü çalışma-mola-çalışma-mola şeklinde sürdürürseniz odaklanmanızı maksimum seviyede tutacaksınız.
 
-# UZUN MOLA
+# Uzun Mola
 4 Pomodoro zaman dilimi geçtikten sonra 15-20 dakika gibi uzun bir mola verin. Her 4 Pomodoro’dan sonra bu uzun molayı tekrarlayın. Pomodoro Tekniği, farklı zaman yönetimi teknikleriyle karıştırılarak uygulanabilir veya zaman aralıkları kişilerin kendi metotlarına göre yeniden düzenlenebilir. 25 dakikaya 5 dakika uygun gibi görünse de herkesin birebir aynı şekilde uygulamasına gerek yoktur. Önemli olan belli uzunluktaki çalışma saatlerinin arasına kısa molalar koyulması ve bu döngünün sürdürülebilmesidir.
 
-# RAPOR
+# Rapor
 Zamanınızı ne derece iyi kullandığınızı görmek için tuttuğunuz listeleri kontrol edin. Kaç Pomodoro döngüsünde başarıya ulaştığınızı, kaç tanesinde bölündüğünüzü ve hedeflediğiniz sayıya ulaşıp ulaşmadığınızı raporlayın.
 
 
@@ -33,11 +33,11 @@ Ayrıca Pomodoro Tekniği ders çalışma teknikleri arasında da sayılmaktadı
 
 
 # POMODORO TEKNİĞİ’NİN FAYDALARI
-# ZAMAN KONTROLÜ VE VERİMLİLİK
+# Zaman Kontrolü ve Verimlilik
 Pomodoro Tekniği sayesinde hem bir aktivitenin ne kadar süre gerektiğini hem de bunca zamanın nereye gittiğini öğreneceksiniz. Ayrıca bu sistem ile çalışırken bölünmeleri önleyecek ve odaklanmayı sürdüreceksiniz. Bu da size zamanınızı verimli kullanmayı öğretecek.
 
-# PLANLAR VE HEDEFLER
+# Planlar ve Hedefler
 Zaman yönetiminiz sayesinde gününüzü doğru şekilde planlamaya ve zamanı etkin kullanmaya başlayacaksınız. Doğal olarak kendinize daha net hedefler belirleyecek ve bir işin ne kadar sürede biteceğini önceden bileceğiniz için kontrolü elinizde tutacaksınız.
 
-# MOTİVASYON VE ÜRETKENLİK
+# Motivasyon ve Üretkenlik
 Saatlerce çalışmaktansa 25 dakika çalışmak daha kolaydır. Kısa çalışma süresi size kolay görünecek ve işleri daha yüksek motivasyonla tamamlayacaksınız. Ayrıca işleri küçük parçalara böldüğünüz için tamamlanan her parça size “iş bitirmiş” olma hissini yeniden yaşatacak. Her tamamladığınız döngü ile birlikte üretkenliğinizi de arttıracaksınız.
