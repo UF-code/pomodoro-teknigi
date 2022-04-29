@@ -42,4 +42,5 @@ Zaman yönetiminiz sayesinde gününüzü doğru şekilde planlamaya ve zamanı 
 # Motivasyon ve Üretkenlik
 Saatlerce çalışmaktansa 25 dakika çalışmak daha kolaydır. Kısa çalışma süresi size kolay görünecek ve işleri daha yüksek motivasyonla tamamlayacaksınız. Ayrıca işleri küçük parçalara böldüğünüz için tamamlanan her parça size “iş bitirmiş” olma hissini yeniden yaşatacak. Her tamamladığınız döngü ile birlikte üretkenliğinizi de arttıracaksınız.
 
-![myfile](https://github.com/uf-code/pomodoro-teknigi/blob/master/piccies/pomodoro.gif)
+# Pomodoro Zamanlayıcısı
+![myfile](https://github.com/uf-code/pomodoro-teknigi/blob/master/piccies/pomodoro.gif | width=100)
