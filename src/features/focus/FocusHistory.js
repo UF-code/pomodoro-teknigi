@@ -28,7 +28,7 @@ export const FocusHistory = ({ focusHistory, onClear }) => {
             <View style={styles.clearContainer}>
               <RoundedButton
                 size={75}
-                title="Clear"
+                title="Temizle"
                 onPress={() => onClear()}
               />
             </View>
