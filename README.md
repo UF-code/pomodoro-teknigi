@@ -43,5 +43,14 @@ Zaman yönetiminiz sayesinde gününüzü doğru şekilde planlamaya ve zamanı 
 Saatlerce çalışmaktansa 25 dakika çalışmak daha kolaydır. Kısa çalışma süresi size kolay görünecek ve işleri daha yüksek motivasyonla tamamlayacaksınız. Ayrıca işleri küçük parçalara böldüğünüz için tamamlanan her parça size “iş bitirmiş” olma hissini yeniden yaşatacak. Her tamamladığınız döngü ile birlikte üretkenliğinizi de arttıracaksınız.
 
 # Pomodoro Zamanlayıcısı
+O anlık odaklanıcağımız işin ne olduğunu input olarak giriyoruz arkasından zamanı belirliyoruz eğer belirlemezsek default olarak 6 
+saniye içerisinde alarm çalmaya başlar eğer zamanı 10-15-20-25 dakika olarak belirlersek zaman sonunda telefonumuzun alarmı çalmaya ve telefon titremeye başlar. Başla Bekle butonlarıyla zamanlayıcı durdurulabilir ve tekrar başlatılabilir. Süre sonunda ise sil butonuyla 
+çalışması biten öğeyi kaldırabiliriz
 <img src="https://github.com/uf-code/pomodoro-teknigi/blob/master/piccies/pomodoro.gif" width="400">
 
+
+# Kullanılan Teknolojiler
+React, React Native, JavaScript, CSS
+
+# Kullanılan Enviromentlar
+Snack Expo, NodeJs, Android and IOS Emulator
