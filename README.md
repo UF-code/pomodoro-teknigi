@@ -44,7 +44,8 @@ Saatlerce çalışmaktansa 25 dakika çalışmak daha kolaydır. Kısa çalışm
 
 # Pomodoro Zamanlayıcısı
 O anlık odaklanıcağımız işin ne olduğunu input olarak giriyoruz arkasından zamanı belirliyoruz eğer belirlemezsek default olarak 6 
-saniye içerisinde alarm çalmaya başlar eğer zamanı 10-15-20-25 dakika olarak belirlersek zaman sonunda telefonumuzun alarmı çalmaya ve telefon titremeye başlar. Başla Bekle butonlarıyla zamanlayıcı durdurulabilir ve tekrar başlatılabilir. Süre sonunda ise sil butonuyla çalışması biten öğeyi kaldırabiliriz
+saniye içerisinde alarm çalmaya başlar eğer zamanı 10-15-20-25 dakika olarak belirlersek zaman sonunda telefonumuzun alarmı çalmaya ve telefon titremeye başlar. Başla Bekle butonlarıyla zamanlayıcı durdurulabilir ve tekrar başlatılabilir. Süre sonunda ise sil butonuyla çalışması biten öğeyi kaldırabiliriz.
+
 <img src="https://github.com/uf-code/pomodoro-teknigi/blob/master/piccies/pomodoro.gif" width="400">
 
 
